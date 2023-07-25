@@ -108,7 +108,7 @@ The hidden message clearlv states a password with a hint that the username is al
 
 Back to the FTP login, I can try the credentials obtained from the doc, which grants me access and reveals the ftpflag.txt
 
-£tp 10.0.2.20
+ftp 10.0.2.20
 
 ls
 
