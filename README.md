@@ -1,7 +1,8 @@
 <h2>Coding Dojo Graduation Capstone (Penetration Test)</h2>
  <p align="center">
  
-![IMG_4471](https://github.com/DionAlexander1/Ethical-Hacking-Lab-Final-Exam/assets/105241007/bf99d747-bb77-4e5b-b6fb-3d1e1ef98562)
+![image](https://github.com/InfoSecDion/Ethical-Hacking-Lab-Final-Exam/assets/105241007/0303ec59-afb5-4f33-9859-8f15715df716)
+
 
 
  <h1>Table of Contents</h1>
@@ -300,8 +301,6 @@ Typing out shell will give me a working cmd shell, and now i can navigate to C:/
 
 ## Conclusion
 
-Performing my first official penetration test after just six months in the cybersecurity field was undoubtedly the most challenging endeavor I have faced thus far. I must admit, it was intimidating, even for someone like me who does not scare easily. However, rather than deter me, the experience further intrigued me about this field. It made me realize the importance of humbling myself and embracing lifelong learning to succeed in cybersecurity.
-Initially, I encountered some difficulties in locating the black flag, and I sought assistance from my professor. On a positive note, capturing the red flag marked the point of qualification for graduation, and I could have stopped the examination at that point. However, I couldn't shake the feeling of dissatisfaction for not finding the black flag within the allocated time. Therefore, even though I missed the grading criteria to officially obtain the black flag, I decided to go back and complete the test to the best of my abilities. I believe that this dedication is how I want to start my new career, giving it my all.
-Post examination, I recognized that there are areas I need to improve, such as the process of cleaning house, which involves eradicating all traces of the penetration test. I inadvertently left fragments of evidence, tools, and user accounts, and failed to clean log files properly, potentially creating difficulties for organizations in the future. I have come to realize that as a Pentester, due dilligence is crucial in ensuring no remnants are left behind after the completion of a penetration test. My professer made sure to let me know the importance of this post examination and i couldnt agree more.
+Post examination, I recognized that there are areas I need to improve, such as the process of cleaning house, which involves eradicating all traces of the penetration test. I inadvertently left fragments of evidence, tools, and user accounts, and failed to clean log files properly, potentially creating difficulties for organizations in the future. I have come to realize that as a Pentester, due dilligence is crucial in ensuring no remnants are left behind after the completion of a penetration test. My professer made sure to let me know the importance of this post examination and i couldnt agree more. Performing my first official penetration test after just six months in the cybersecurity field was undoubtedly the most challenging endeavor I have faced thus far.
 
-Lastly, despite the challenges faced during this project, it has only deepened my passion for cybersecurity. I am committed to honing my skills and knowledge, so I can contribute meaningfully to the field and better protect organizations from potential threats. I look forward to honing my skills further defensively and into the cloud moving forwarding and then later in my career i plan on developing my offensive skills even further because you cant defend what you dont know! So to anyone out there feeling overwhelmed, just dont give up.
+Lastly, despite the challenges faced during this project, it has only deepened my passion for cybersecurity. I am committed to honing my skills and knowledge, so I can contribute meaningfully to the field and better protect organizations from potential threats. I look forward to honing my skills further defensively and into the cloud moving forwarding and then later in my career i plan on developing my offensive skills even further because you cant defend what you dont know!
